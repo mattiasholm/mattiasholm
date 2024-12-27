@@ -4,4 +4,8 @@
 
 <br>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mattiasholm&show_icons=true)]()
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/?username=mattiasholm&show_icons=true" alt="GitHub Stats">
+  </a>
+</div>
