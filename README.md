@@ -5,5 +5,5 @@
   <a href="https://learn.microsoft.com/en-us/users/mattiasholm/credentials/f66aed6006363fda" target="_blank"><img src="./img/azure-developer.png" width="150" alt="Microsoft Certified: Azure Developer Associate">
   <a href="https://learn.microsoft.com/en-us/users/mattiasholm/credentials/141f99e91032378e" target="_blank"><img src="./img/azure-solutions-architect.png" width="150" alt="Microsoft Certified: Azure Solutions Architect Expert">
   <br><br><br>
-  <a href="https://github.com/mattiasholm"><img src="https://github-readme-stats.vercel.app/api/?username=mattiasholm&show_icons=true" width="400" alt="GitHub Stats"></a>
+  <a href="https://github.com/mattiasholm"><img src="https://github-readme-stats.vercel.app/api/?username=mattiasholm&show_icons=true&theme=transparent" width="400" alt="GitHub Stats"></a>
 </div>
